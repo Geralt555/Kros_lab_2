@@ -1,1 +1,1 @@
-# Kros_lab_2
+# Krod_pandas
